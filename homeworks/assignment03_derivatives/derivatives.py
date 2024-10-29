@@ -1,3 +1,5 @@
+import numpy as np
+
 class LossAndDerivatives:
     @staticmethod
     def mse(X, Y, w):
